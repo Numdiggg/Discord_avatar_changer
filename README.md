@@ -16,16 +16,11 @@ This Python script, built using the `discord.py` library, facilitates the seamle
     cd discord-bot-avatar-changer
     ```
 
-2. Install the required dependencies:
-    ```bash
-    pip install discord.py colorama
-    ```
-
-3. Run the script:
+2. Run the script:
     - On Windows: `run_bot.bat`
     - On Linux/Mac: `./run_bot.sh`
 
-4. Follow the prompts to enter the Discord bot token and the avatar file name.
+3. Follow the prompts to enter the Discord bot token and the avatar file name.
 
 ## Prerequisites
 - Python 3.6 or higher
