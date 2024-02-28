@@ -1,6 +1,7 @@
 
 echo "Installing discord.py..."
 pip install discord.py==1.7.3
+pip install colorama
 
 if [ $? -ne 0 ]; then
     echo -e "\e[91mFailed to install discord.py. Exiting.\e[0m"
